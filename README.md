@@ -1,0 +1,3 @@
+This repository contains a simple TypeScript program that demonstrates a common type error. The program defines a function that takes a string argument and returns a string. However, when the program attempts to call the function with an array of strings, it causes a type error.
+
+The solution to this problem is to either pass a single string to the function or modify the function to accept an array of strings. The solution code shows how to modify the function to accept an array of strings and iterate over it to greet each person in the array.
